@@ -1,4 +1,4 @@
-# 🚀 Offline Chatbot (Ollama + Streamlit)
+# Offline Chatbot (Ollama + Streamlit)
 
 This project demonstrates how to run and manage models locally using [Ollama](https://ollama.com/) by creating an interactive UI with [Streamlit](https://streamlit.io).
 
